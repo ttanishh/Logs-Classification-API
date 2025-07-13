@@ -4,7 +4,6 @@ streamlit
 pandas
 joblib
 transformers
-torch
 python-multipart
 plotly
 sentence-transformers
