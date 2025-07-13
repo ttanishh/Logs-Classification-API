@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pandas
+joblib
+transformers
+torch
+python-multipart
+plotly
