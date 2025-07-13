@@ -1,5 +1,10 @@
 fastapi
 uvicorn
+streamlit
 pandas
-python-multipart
 joblib
+transformers
+torch
+python-multipart
+plotly
+sentence-transformers
